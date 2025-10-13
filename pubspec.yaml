@@ -18,12 +18,12 @@ dependencies:
   hive: ^2.2.3
   json_annotation: ^4.9.0
   logger: ^2.5.0
-  path_provider: ^2.1.5
+  path_provider: ^2.1.5 
   retrofit: ^4.5.0
 
 dev_dependencies:
   flutter_test:
-    sdk: flutter
+    sdk: flutter 
   flutter_lints: ^5.0.0
   json_serializable: ^6.9.5
   freezed: ^3.0.6
