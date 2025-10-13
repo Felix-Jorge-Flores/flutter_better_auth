@@ -13,7 +13,7 @@ abstract class SignInEmailResponse with _$SignInEmailResponse {
     required User user,
   }) = _SignInEmailResponse;
   factory SignInEmailResponse.fromJson(Map<String, dynamic> json) {
-    print(json);
+    // Verify field => print(json);
     return _$SignInEmailResponseFromJson(json);
   }
 }
