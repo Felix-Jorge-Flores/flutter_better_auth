@@ -41,7 +41,7 @@ Para obtener los últimos cambios del fork y actualizar tu proyecto, sigue estos
 ```yaml
   flutter_better_auth:
     git:
-      url: https://github.com/tekbuddyio/flutter_better_auth
+      url: https://github.com/user/flutter_better_auth
       ref: main  
 ```
 
